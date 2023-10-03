@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Retrieval-based-Voice-Conversion-WebUI</h1>
+<h1>Retrieval-based-Voice-Conversion-WIthoutUI</h1>
 一个基于VITS的简单易用的语音转换（变声器）框架<br><br>
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange
